@@ -7,7 +7,7 @@ tools:[React, Node]
 }
 ```
 Yo can find me 🗺️:
-- [Linkedin](www.linkedin.com/in/mario-alberto-garcía-sánchez)
+- [Linkedin](https://www.linkedin.com/in/mario-alberto-garc%C3%ADa-s%C3%A1nchez/)
 <!--
 **Mario-94/Mario-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
