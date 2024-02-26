@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+```js
+const Mario-94={
+pronouns: "he" | "him"
+code: [Javascript, Typescript, HTML,CSS]
+tools:[React, Node]
+}
+```
+Yo can find me 🗺️:
+- [Linkedin](www.linkedin.com/in/mario-alberto-garcía-sánchez)
 <!--
 **Mario-94/Mario-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
